@@ -1,2 +1,5 @@
 # Trix-catalyst
-dataset BPS, BMKG, Kementan(otw)
+
+kupulan dataset untuk proposal lomba Spark-ITB
+dataset BPS, BMKG(mining pake API nyusul), Kementan(lagi )
+(tapi ga lolos ges)
